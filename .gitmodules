@@ -1,0 +1,7 @@
+[submodule "src/bebop_autonomy"]
+	path = src/bebop_autonomy
+	url = https://github.com/AutonomyLab/bebop_autonomy.git
+[submodule "src/vision_visp"]
+	path = src/vision_visp
+	url = https://github.com/lagadic/vision_visp.git
+	branch = indigo
