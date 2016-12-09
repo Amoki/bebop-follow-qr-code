@@ -16,5 +16,5 @@ roslaunch bebop_tracker bebop.launch
 ```
 
 
-The drone take off when it sees a QR code and automatically land if there is no recognized QR Code for 10 seconds
+The drone take off when it sees a QR code and automatically lands if there is no recognized QR Code for 10 seconds
 
