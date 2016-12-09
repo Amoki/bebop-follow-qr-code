@@ -1,6 +1,9 @@
 Bebop Follow QR Code
 ====================
 
+## Dependencies
+ROS Indigo (if needed, feel free to post de PR or ask me to create versionned branches)
+catkin-tools (see https://catkin-tools.readthedocs.io/en/latest/installing.html)
 
 ## Install
 ```bash
